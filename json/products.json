@@ -1,0 +1,56 @@
+[ 
+    { "code": "LB1", "name": "小白菜" },
+    { "code": "LC1", "name": "不結球白菜類" },
+    { "code": "LA1", "name": "甘藍" },
+    { "code": "LF1", "name": "空心菜" }, 
+    { "code": "LC7", "name": "結球白菜" },
+    { "code": "LI2", "name": "結球萵苣" },
+    { "code": "LJ3", "name": "芥菜" },
+    { "code": "LK3", "name": "芥藍" },
+    { "code": "LG1", "name": "芹菜" },
+    { "code": "LL1", "name": "茼蒿" },
+    { "code": "LM1", "name": "莧菜" },
+    { "code": "LH1", "name": "菠菜" },
+    { "code": "LI3", "name": "萵苣" },
+    { "code": "LF3", "name": "蕹菜" },
+
+    { "code": "FE1", "name": "冬瓜" },
+    { "code": "FT1", "name": "南瓜" },
+    { "code": "FN1", "name": "四季豆" },
+    { "code": "FT3", "name": "夏南瓜" },
+    { "code": "FH1", "name": "扁蒲" },
+    { "code": "FK3", "name": "甜椒" },
+    { "code": "V1", "name": "甜瓜" },
+    { "code": "FV1", "name": "番椒" },
+    { "code": "FJ1", "name": "番茄" },
+    { "code": "FL6", "name": "豌豆" },
+    { "code": "FF1", "name": "絲瓜" },
+    { "code": "FC1", "name": "胡瓜" },
+    { "code": "FG1", "name": "苦瓜" },
+    { "code": "FI1", "name": "茄子" },
+    { "code": "45", "name": "草莓" },
+    { "code": "FM1", "name": "菜豆" },
+    { "code": "T1", "name": "西瓜" },
+    { "code": "FM2", "name": "豇豆" },
+
+    { "code": "SU1", "name": "山藥"},
+    { "code": "SA3", "name": "蘿蔔"},
+    { "code": "SB1", "name": "胡蘿蔔"},
+    { "code": "SO1", "name": "甘薯"},
+
+    { "code": "O1", "name": "梨"},
+    { "code": "R1", "name": "芒果"},
+    { "code": "S1", "name": "葡萄"},
+
+    { "code": "FY1", "name": "玉米"},
+    { "code": "FY064", "name": "小麥"},
+
+    { "code": "SJ1", "name": "芋"},
+    { "code": "SP1", "name": "薑"},
+    { "code": "SF1", "name": "韭菜"},
+    
+    { "code": "FB2", "name": "花椰菜"},
+    { "code": "FB1", "name": "青花菜"},
+    
+    { "code": "FR000", "name": "玫瑰"}
+]
