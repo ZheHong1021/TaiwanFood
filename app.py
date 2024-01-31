@@ -69,7 +69,10 @@ if __name__ == '__main__':
         
         # 抓取近兩個月的資料(由於其資料都是隔日才更新，因此會有跨月的情況)
         now = datetime.now()
-        month_start = datetime(now.year, now.month - 1, 1) # month - 1
+        # 處理跨年問題
+        year = now.year - 1 if now.month == 1 else now.year # 抓去去年
+        month = 12 if now.month == 1 else now.month - 1 # 就抓去年12月，如果不是就抓上一個月   
+        month_start = datetime(year, month, 1) # month - 1
         params['filter']["where"]["startDay"]["gte"] = month_start.strftime("%Y/%m/%d") # 修改查詢的時間點
 
         new_params = { 'filter': '' } # 新增一個新的 params(主要用於Request傳送)
